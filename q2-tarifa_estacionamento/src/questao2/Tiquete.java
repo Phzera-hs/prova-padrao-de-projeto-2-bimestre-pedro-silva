@@ -1,3 +1,4 @@
+package questao2;
 public class Tiquete {
     private String placa;
     private int tempoPermanencia; 

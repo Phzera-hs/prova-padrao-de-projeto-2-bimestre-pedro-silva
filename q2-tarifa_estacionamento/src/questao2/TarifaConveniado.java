@@ -1,3 +1,4 @@
+package questao2;
 public class TarifaConveniado implements ITarifaStrategy {
     private static final double VALOR_HORA = 10.0; 
     private static final double DESCONTO = 0.20; 

@@ -1,3 +1,4 @@
+package questao2;
 public class TarifaRotativo implements ITarifaStrategy {
     private static final double VALOR_HORA = 10.0; 
 
