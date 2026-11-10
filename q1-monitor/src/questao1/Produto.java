@@ -1,3 +1,4 @@
+package questao1;
 public class Produto extends abstObservable {
     private String nome;
     private int quantidade;

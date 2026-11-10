@@ -1,3 +1,4 @@
+package questao1;
 public class Auditoria implements IObserver {
     @Override
     public void atualizar(String nomeProduto, int novaQuantidade) {
